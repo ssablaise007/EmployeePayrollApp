@@ -182,4 +182,11 @@ select{
         flex-direction: column-reverse;
         align-items: flex-start;
     }
+    /*  UC2 */ 
+    erro-output{
+        margin: 10px;
+        font-size: 12px;
+        font-style: italic;
+        color: red;
+    }
 }
